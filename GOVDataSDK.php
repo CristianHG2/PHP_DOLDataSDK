@@ -62,6 +62,10 @@ class GOVDataContext
 // The callAPI method is responsible for sending the request.
 class GOVDataRequest
 {
+    const LINK_DOL_API = "http://api.dol.gov";
+    const LINK_DOL_QUARRY = "https://quarry.dol.gov";
+    const LINK_USA_GOV = "http://business.usa.gov";
+
 	static private $validArguments = Array(
         'top' => true,
         'skip' => true,
