@@ -1,0 +1,11 @@
+{
+    "name": "usdol/govdatasdk",
+    "description": "Composer package port for the U.S. Department of Labor's PHP SDK",
+    "authors": [
+        {
+            "name": "U.S Department of Labor / Port by CristianHG",
+            "email": "cherreragiraldo@gmail.com"
+        }
+    ],
+    "require": {}
+}
