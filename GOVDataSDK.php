@@ -1,6 +1,6 @@
 <?php
 
-namespace usdol;
+namespace USDOL;
 
 date_default_timezone_set('UTC');
 // This class handles the storage of the host, API key, and Shared Secret for your GOVDataRequest
